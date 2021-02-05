@@ -1,0 +1,67 @@
+.header{
+	background: green;
+	min-height: 100px;
+}
+.hell{
+	overflow: hidden;
+}
+.banner{
+	background: yellow;
+	min-height: 150px;
+	width: 50%;
+	float: left;
+}
+.abanner{
+	background: red;
+	min-height: 150px;
+	width: 50%;
+	float: right;
+}
+.container{
+	overflow: hidden;
+	border: 5px solid black;
+}
+.ab{
+	background: yellow;
+	min-height: 150px;
+	width: 30%;
+	float: left;
+}
+.bc{
+	background: green;
+	min-height: 150px;
+	width: 40%;
+	float: left;
+}
+.ca{
+	background: red;
+	min-height: 150px;
+	width: 30%;
+	float: left;
+}
+.wrapper{
+	overflow: hidden;
+	border: 5px solid lightblue;
+
+}
+.box{
+	min-height: 150px;
+	width: 25%;
+	float: left;
+}
+.one{
+	background: red;
+}
+.two{
+	background: yellow;
+}
+.three{
+	background: black;
+}
+.four{
+	background: green;
+}
+.footer{
+	background: blue;
+	min-height: 100px;
+}
